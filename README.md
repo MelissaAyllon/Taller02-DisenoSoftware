@@ -13,4 +13,5 @@ Implementación de aspecto "Retirar dinero",
 ![AspectoRetiro](https://github.com/MelissaAyllon/Taller02-DisenoSoftware/assets/95942498/56845b0a-fe6a-43cb-9588-5b0190da62f5)
 
 Cómo funciona el aspecto "Retirar dinero",
+
 ![Retiro](https://github.com/MelissaAyllon/Taller02-DisenoSoftware/assets/95942498/5ff60a11-8959-4961-828b-8b9279908588)
